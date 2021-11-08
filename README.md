@@ -26,7 +26,7 @@ the user is responsible.
 </a>
 </p>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/AshenNethsara/AttentionBot" target="_blank">
+<a href="https://heroku.com/deploy?template=https://github.com/AshenNethsara/MalSara" target="_blank">
 <img src="https://www.herokucdn.com/deploy/button.svg" title="Deploy With Heroku">
 </a>
 </p>
