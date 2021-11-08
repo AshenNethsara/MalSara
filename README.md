@@ -10,9 +10,9 @@ install their own plugins to the original software and use them as they wish.
 Using the bot out of purpose will explicitly ban you.
 Usage is entirely the user's responsibility, මල් සරා Userbot is an 
 infrastructure only. Just as the operating system is not responsible 
-for the work done with the programs that are installed later, WhatsAsena 
+for the work done with the programs that are installed later, මල් සරා 
 is not responsible for the usage purpose and method of the users.
-Marketing WhatsAsena for money, making it available or having any material value
+Marketing මල් සරා for money, making it available or having any material value
 ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
 the user is responsible.
 ```
@@ -63,8 +63,8 @@ $ node bot.js
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
+Absolutely, මල් සරා executives do not accept responsibility.
+By establishing the මල් සරා, you are deemed to have accepted these responsibilities.
 ```
 
 ## Thanks To

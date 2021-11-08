@@ -1,8 +1,8 @@
 {
     "__ASENAJSON__": true,
-    "LANGUAGE": "English",
-    "LANGCODE": "en",
-    "AUTHOR": "AsenaDev",
+    "LANGUAGE": "Sinhala",
+    "LANGCODE": "si",
+    "AUTHOR": "AshenNethsara",
     "STRINGS": {
         "_malsara": {
             "COMMAND": "Command",

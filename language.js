@@ -10,10 +10,10 @@ if (fs.existsSync('./language/' + Config.LANG + '.json')) {
     var json = JSON.parse(fs.readFileSync('./language/' + Config.LANG + '.json'));
 } else {
     console.log(
-        chalk.red.bold('You entered an invalid language. English language was chosen.')
+        chalk.red.bold('ඔබ ඇතුලත් කල භාෂාව වැරදියි. ස්වයංක්‍රීයව සිංහල භාෂාව තෝරා ගන්න ලදී.')
     );
 
-    var json = JSON.parse(fs.readFileSync('./language/EN.json'));
+    var json = JSON.parse(fs.readFileSync('./language/SI.json'));
 }
 
 function getString(file) {
